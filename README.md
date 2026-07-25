@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
