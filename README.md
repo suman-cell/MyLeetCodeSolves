@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0004-median-of-two-sorted-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
