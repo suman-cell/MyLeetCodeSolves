@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
