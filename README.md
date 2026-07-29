@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3271-hash-divided-string](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3271-hash-divided-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
