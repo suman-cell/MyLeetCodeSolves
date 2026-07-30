@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0027-remove-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0027-remove-element) |
 ## Heap (Priority Queue)
 |  |
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
