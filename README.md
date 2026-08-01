@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0027-remove-element) |
+| [0486-predict-the-winner](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/suman-cell/MyLeetCodeSolves/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
